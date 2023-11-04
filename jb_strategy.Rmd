@@ -1,6 +1,6 @@
 ---
-title: 'Strategy C: James Bond Strategy'
-author: 'Joseph Oluwasanya (Student no: 202306564)'
+title: 'Roulette Analysis: James Bond Strategy'
+author: 'Joseph Oluwasanya (j.oluwasanya@lse.ac.uk)'
 date: "2023-11-04"
 output:
   pdf_document: default
